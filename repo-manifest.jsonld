@@ -8,8 +8,9 @@
     {
       "@id": "https://repolex.ai/r/sdispater/pytzdata/commit/11dda19bc50a2d4e246326450bd2e86389cf67c8",
       "git:hexsha": "11dda19bc50a2d4e246326450bd2e86389cf67c8",
-      "repolex:parseStatus": "ast_complete",
-      "git:tagName": "2020.1"
+      "repolex:parseStatus": "parsed",
+      "git:tagName": "2020.1",
+      "repolex:parsedAt": "2026-10-20T21:55:25.018316+00:00"
     },
     {
       "@id": "https://repolex.ai/r/sdispater/pytzdata/commit/76e2852626327cda7d7ffcc351207cd008282fbb",
