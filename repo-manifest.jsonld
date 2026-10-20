@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/sdispater/pytzdata/commit/11dda19bc50a2d4e246326450bd2e86389cf67c8",
       "git:hexsha": "11dda19bc50a2d4e246326450bd2e86389cf67c8",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "2020.1"
     },
     {
